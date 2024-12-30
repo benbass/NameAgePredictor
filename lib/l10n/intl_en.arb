@@ -1,0 +1,13 @@
+{
+  "searchForm_introText": "Determine the age estimate for a specific first name, optionally for a specific country.",
+  "searchField_hintText" : "Enter a first name...",
+  "searchField_invalidValue" : "The search term may not be empty and only contain letters, hyphens and spaces.",
+  "searchButton_send": "SEND",
+  "responsePage_notFound" : "was not found",
+  "responsePage_TrayAgainDifferent": "Try again with a different name.",
+  "responsePage_is": "is",
+  "responsePage_yearsOld":"years old",
+  "responsePage_in": "in",
+  "responsePage_tryAgain": "Try Again?",
+  "country_dropDown_hintText": "Countries"
+}

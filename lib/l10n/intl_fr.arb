@@ -1,0 +1,13 @@
+{
+  "searchForm_introText": "Détermine l'âge estimé pour un prénom spécifique, éventuellement pour un pays spécifique.",
+  "searchField_hintText" : "Saisis un prénom...",
+  "searchField_invalidValue" : "Le terme de recherche doit pas être vide et ne peut contenir que des lettres, des traits d'union et des espaces.",
+  "searchButton_send": "ENVOYER",
+  "responsePage_notFound" : "n'a pas été trouvé",
+  "responsePage_TrayAgainDifferent": "Éssaie à nouveau avec un autre nom",
+  "responsePage_is": "a",
+  "responsePage_yearsOld":"ans",
+  "responsePage_in": "au ou en",
+  "responsePage_tryAgain": "Réessayer?",
+  "country_dropDown_hintText": "Pays"
+}

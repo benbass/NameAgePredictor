@@ -1,0 +1,13 @@
+{
+  "searchForm_introText": "Ermittle die Altersschätzung für einen bestimmten Vornamen, optional für ein bestimmtes Land.",
+  "searchField_hintText" : "Vorname eingeben...",
+  "searchField_invalidValue" : "Der Suchbegriff kann nicht leer sein und darf nur Buchstaben, Bindestriche und Leerzeichen enthalten.",
+  "searchButton_send": "SENDEN",
+  "responsePage_notFound" : "wurde nicht gefunden",
+  "responsePage_TrayAgainDifferent": "Versuche es nochmal mit einem anderen Namen.",
+  "responsePage_is": "ist",
+  "responsePage_yearsOld":"Jahre alt",
+  "responsePage_in": "in",
+  "responsePage_tryAgain": "Neuer Versuch?",
+  "country_dropDown_hintText": "Länder"
+}
