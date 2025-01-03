@@ -33,7 +33,7 @@ class AppTheme {
   );
 
   static final TextStyle _bodyTextMedium = _bodyTextLarge.copyWith(
-    fontSize: 16.sp,
+    fontSize: 15.sp,
   );
 
   static final TextStyle _bodyTextSmall = _bodyTextLarge.copyWith(
