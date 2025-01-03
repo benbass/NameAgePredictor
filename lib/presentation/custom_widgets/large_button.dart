@@ -27,6 +27,7 @@ class LargeButton extends StatelessWidget {
               style: themeData.textTheme.displayLarge!.copyWith(
                 color: themeData.colorScheme.primaryContainer,
               ),
+              textAlign: TextAlign.center,
             ),
           ),
         ),
