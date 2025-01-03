@@ -25,7 +25,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "country_dropDown_hintText":
             MessageLookupByLibrary.simpleMessage("Länder"),
         "responsePage_TrayAgainDifferent": MessageLookupByLibrary.simpleMessage(
-            "Versuche es nochmal mit einem anderen Namen."),
+            "Versuche es nochmal mit einem anderen Namen (oder Land)."),
         "responsePage_in": MessageLookupByLibrary.simpleMessage("in"),
         "responsePage_is": MessageLookupByLibrary.simpleMessage("ist"),
         "responsePage_notFound":

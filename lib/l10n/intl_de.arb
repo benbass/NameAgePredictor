@@ -4,7 +4,7 @@
   "searchField_invalidValue" : "Der Suchbegriff kann nicht leer sein und darf nur Buchstaben, Bindestriche und Leerzeichen enthalten.",
   "searchButton_send": "SENDEN",
   "responsePage_notFound" : "wurde nicht gefunden",
-  "responsePage_TrayAgainDifferent": "Versuche es nochmal mit einem anderen Namen.",
+  "responsePage_TrayAgainDifferent": "Versuche es nochmal mit einem anderen Namen (oder Land).",
   "responsePage_is": "ist",
   "responsePage_yearsOld":"Jahre alt",
   "responsePage_in": "in",

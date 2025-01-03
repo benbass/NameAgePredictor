@@ -100,10 +100,10 @@ class S {
     );
   }
 
-  /// `Try again with a different name.`
+  /// `Try again with a different name (or country).`
   String get responsePage_TrayAgainDifferent {
     return Intl.message(
-      'Try again with a different name.',
+      'Try again with a different name (or country).',
       name: 'responsePage_TrayAgainDifferent',
       desc: '',
       args: [],

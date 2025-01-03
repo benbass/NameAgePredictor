@@ -4,7 +4,7 @@
   "searchField_invalidValue" : "The search term may not be empty and only contain letters, hyphens and spaces.",
   "searchButton_send": "SEND",
   "responsePage_notFound" : "was not found",
-  "responsePage_TrayAgainDifferent": "Try again with a different name.",
+  "responsePage_TrayAgainDifferent": "Try again with a different name (or country).",
   "responsePage_is": "is",
   "responsePage_yearsOld":"years old",
   "responsePage_in": "in",
