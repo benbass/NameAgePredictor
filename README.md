@@ -1,6 +1,7 @@
 # Name Age Predictor
 
-App based on the agify API that estimates the age based on a first name
+App based on the agify API that estimates the age based on a first name.
+It was programmed as part of a code challenge.
 
 ## Specs
 
