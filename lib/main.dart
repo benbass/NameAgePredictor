@@ -43,9 +43,7 @@ class MyApp extends StatelessWidget {
         ],
         theme: AppTheme.lightTheme,
         title: 'Name Age Predictor',
-        home: SafeArea(
-          child: Homepage(),
-        ),
+        home: Homepage(),
       );
     });
   }
